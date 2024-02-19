@@ -1,2 +1,5 @@
 # BA775-SQL Project
 Yifan Fan, Yifei Cheng, Asra Ahmed, Atharva Lokhande, Sneha Jayapradeep, Haaniya Umair
+The global video game industry was valued at $159.3B in 2020, with almost two-thirds of under-18-year-olds in the US playing video games online. Analyzing trends can help industry experts make informed decisions, improve development strategies, optimize pricing, and tailor marketing to specific demographics to improve market share.
+
+With the rise of remote work and its impact on the technology sector, there may be new patterns in the success rates of games developed by teams in various geographic locations. It will help the various stakeholders including game developers, publishers etc to make informed decisions that can help improve their performance and market share in the video game market. There are investors or venture capitalists who may be interested in investing in this kind of analysis to identify investment opportunities in-game markets. By discovering the factors behind a successful game sale, they can allocate resources more efficiently.
